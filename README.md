@@ -20,9 +20,9 @@
 
 # What I'm Doing Right Now
 
-🔍 Researching smart contract security — EVM internals, exploit reproduction, vulnerability analysis
-🤖 Building AI-powered tools — RAG systems, autonomous agents, evaluation frameworks
-🔗 Working at the Web3 × AI intersection — on-chain agents, AI-driven contract analysis
-✍️ Writing technical deep-dives on what I ship and break
+- Researching smart contract security — EVM internals, exploit reproduction, vulnerability analysis
+- Building AI-powered tools — RAG systems, autonomous agents, evaluation frameworks
+- Working at the Web3 × AI intersection — on-chain agents, AI-driven contract analysis
+- Writing technical deep-dives on what I ship and break
 
 I'm not a jack of all trades. I'm building a T-shape — deep full-stack roots, with serious branches into Web3 and AI. The goal is to be the engineer who builds the entire system, from the smart contract to the AI agent to the frontend users interact with.
