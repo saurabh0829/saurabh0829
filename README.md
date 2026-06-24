@@ -1,11 +1,11 @@
-#Hey, I'm Saurabh 👋
+# Hey, I'm Saurabh 👋
 
-Full-Stack Developer working across web applications, smart contracts, and AI-powered systems.
+-> Full-Stack Developer working across web applications, smart contracts, and AI-powered systems.
 
-3+ years shipping production software. Currently building at the intersection of Web3 and AI Engineering because the most interesting problems live where these worlds collide.
+-> 3+ years shipping production software. Currently building at the intersection of Web3 and AI Engineering because the most interesting problems live where these worlds collide.
 
 
-#What I Build With
+# What I Build With
 
 - Web Development — where I'm strongest
 - I've shipped 12+ production features across 3 enterprise clients, optimized APIs by 40–60%, and own full modules end-to-end. This is my foundation.
@@ -18,10 +18,7 @@ Full-Stack Developer working across web applications, smart contracts, and AI-po
 - Claude API OpenAI API RAG Vector Databases LangChain Prompt Engineering AI Agents
 
 
-
-
-
-#What I'm Doing Right Now
+# What I'm Doing Right Now
 
 🔍 Researching smart contract security — EVM internals, exploit reproduction, vulnerability analysis
 🤖 Building AI-powered tools — RAG systems, autonomous agents, evaluation frameworks
